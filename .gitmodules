@@ -1,0 +1,3 @@
+[submodule "libs/cppstreams"]
+	path = libs/cppstreams
+	url = https://github.com/KulahaRoman/cppstreams.git
